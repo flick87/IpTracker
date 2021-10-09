@@ -57,4 +57,4 @@ http://127.0.0.1:8000/geo/api/filter/{country or city name}/
 
 Returns all IP/Info in cache memory in sorted order. If value is not 'city', then
 list will be sorted by country.
-http://127.0.0.1:8000/geo/api/sort/{'country' or 'city'}/  <-sort by country or city
+http://127.0.0.1:8000/geo/api/sort/{'country' or 'city'}/
